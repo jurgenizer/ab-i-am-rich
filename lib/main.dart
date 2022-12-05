@@ -11,8 +11,7 @@ void main() {
         backgroundColor: Colors.blueGrey[200],
         body: const Center(
           child: Image(
-            image: NetworkImage(
-                'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
