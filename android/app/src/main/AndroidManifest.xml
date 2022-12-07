@@ -1,5 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jurgengeitner.i_am_rich">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
    <application
         android:label="i_am_rich"
         android:name="${applicationName}"

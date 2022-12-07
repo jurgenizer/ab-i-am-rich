@@ -60,6 +60,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.jurgengeitner.i_am_rich'
 }
 
 flutter {
